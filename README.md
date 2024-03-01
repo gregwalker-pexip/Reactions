@@ -1,4 +1,4 @@
-Reactions WebApp3 Plugin - Distribution 
+**Reactions WebApp3 Plugin - Distribution **
 
 Select from Applause, Hearts or Funny. 
 
